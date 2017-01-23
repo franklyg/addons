@@ -1,3 +1,6 @@
+
+//<script type="text/javascript" src="assets/addons/sticky-counter.js"></script>
+//<link rel="stylesheet" type="text/css" href="assets/addons/main.css">
 function startTimer(duration, display) {
     var start = Date.now(),
         diff,
